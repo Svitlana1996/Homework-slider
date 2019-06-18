@@ -56,9 +56,14 @@ display: block;
 }
 .slider__item {
     height: 400px;
-    margin: 10px;
+    margin: 15px;
     cursor: pointer;
+    opacity: 0.5;
 
+}
+.slick-center {
+    transform: scale(1.1);
+    opacity: 1;
 }
 
 .slider__info {

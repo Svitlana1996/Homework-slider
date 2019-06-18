@@ -7,6 +7,7 @@ $(document).ready(function(){
         arrows: true,
         prevArrow: '.arrow--1',
         nextArrow: '.arrow--2',
+        centerMode: true
                          
     })
 })
